@@ -13,7 +13,7 @@ name                     : &name "Kelsey Jordahl"
 description              : &description "personal description"
 url                      : https://kjordahl/github.io   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kjordahl/kjordahl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kelsey Jordahl"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Spokane, Washington"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Kgdp6FkAAAAJ"
   email            : # "kajord at mail service that starts with G"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "kjordahl"
-  orcid            : "http://orcid.org/0000-0001-5712-4504"
+  orcid            : "https://orcid.org/0000-0001-5712-4504"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "kajord"
