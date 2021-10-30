@@ -15,3 +15,5 @@ computations. Students learn to read standard GIS file formats,
 perform spatial calculations, and plot results.
 
 [GitHub repository](https://github.com/kjordahl/SciPy-Tutorial-2015)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HzPSVwyP2Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
