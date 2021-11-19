@@ -201,6 +201,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _abstracts
+  - scope:
+      path: ""
+      type: abstracts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""
