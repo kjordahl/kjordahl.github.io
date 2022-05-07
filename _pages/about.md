@@ -10,7 +10,7 @@ redirect_from:
 
 This is Kelsey Jordahl's bio page.
 
-I am currently Director of the Derived Data Products team at
+I work in the Imagery and Analytics software team at
 Planet. Planet operates the largest private constellation of earth
 imaging satellites in the world, processing terabytes of data every
 day. Prior to joining Planet in 2015, I worked as a scientific
