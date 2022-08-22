@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my publications on <a href="{{author.googlescholar}}">my Google Scholar profile</a> or <a href="{{author.orcid}}">ORCID</a>.
+You can find my publications on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a> or <a href="{{ site.author.orcid }}">ORCID</a>.
 
 {% include base_path %}
 
