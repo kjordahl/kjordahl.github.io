@@ -41,7 +41,8 @@ For more information on programming AVRs, try starting
 with <a href="http://www.ladyada.net/learn/avr/">this
 tutorial</a>.
 
-Source code is available at <a href="http://github.com/kjordahl/Pyralis">github</a>.
+Source code is available at [Github](http://github.com/kjordahl/Pyralis)
+or [Codeberg](https://codeberg.org/kjordahl/Pyralis).
 
 ---
 
