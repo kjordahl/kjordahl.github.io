@@ -5,7 +5,7 @@ permalink: /firefly.html
 author_profile: true
 ---
 
-<img src="images/fireflyjar.jpg" width="200" alt="Completed firefly jar">{: .img-left}
+[<img src="images/fireflyjar.jpg" width="200" alt="Completed firefly jar">{: .img-left}](images/fireflyjar.jpg)
 
 There are a number of projects out there on the web to make a
 simulated firefly jar with LEDs and a microcontroller.  The first one I was aware of was

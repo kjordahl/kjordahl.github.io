@@ -5,7 +5,7 @@ permalink: /ffhardware.html
 author_profile: true
 ---
 
-<img src="images/fireflydone.jpg" width="225" alt="finished jar electronics">{: .img-left}
+[<img src="images/fireflydone.jpg" width="225" alt="finished jar electronics">{: .img-left}](images/fireflydone.jpg)
 
 The hardware for this project was made following <a
 href="http://www.instructables.com/id/Jar-of-Fireflies/">this
@@ -16,7 +16,7 @@ easier, I first built a prototype board on a 2"x2" perfboard with the
 same [schematic](images/schematic.png), so it is electrically identical but easier to see what
 it's doing, and less fragile.
 
-<img src="images/protoboard.jpg" width="200" alt="Prototype board">{: .img-right}
+[<img src="images/protoboard.jpg" width="200" alt="Prototype board">{: .img-right}](images/protoboard.jpg)
 
 The prototype board can also be used as a <a
 href="http://www.evilmadscientist.com/article.php/avrtargetboards">target
