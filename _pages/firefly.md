@@ -30,3 +30,8 @@ worked and make sure that I understood everything that went into
 it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xLIYgtnV2J0?si=kV81utGnmUhT5NTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+Next: [firefly jar hardware](ffhardware.html)
+
