@@ -18,7 +18,7 @@ Work experience
 ======
 * Nov 2015 - present: [Planet](https://planet.com)
   * Principal Engineer, Imagery and Analytics (2022-)
-  * Director, Derived Data Products (2019-)
+  * Director, Derived Data Products (2019-2022)
   * Engineering Manager, Data Pipeline (2017-2019)
   * Lead, Mosaics team (2016-2017)
 
