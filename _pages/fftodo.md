@@ -43,7 +43,7 @@ improved or added (roughly in order from easier to most difficult):
 
 I probably won't get around to changing the hardware anytime soon, but if you
 implement any of these, or use my code for anything else, please
-<a href="http://mailhide.recaptcha.net/d?k=01hCoV_VT80lzeei-2ycfpXw==&amp;c=2lGyw783Cl3lj2FWYzRoE2p-jlLo4kyDHYkUQDz9LCQ=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01hCoV_VT80lzeei-2ycfpXw==&amp;c=2lGyw783Cl3lj2FWYzRoE2p-jlLo4kyDHYkUQDz9LCQ=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">let me know</a>.
+[let me know](https://hachyderm.io/@kajord).
 
 [charlieplexing]: http://en.wikipedia.org/wiki/Charlieplexing
 [at2313]: http://www.atmel.com/dyn/Products/Product_card.asp?part_id=3229
