@@ -5,6 +5,8 @@ permalink: /firefly.html
 author_profile: true
 ---
 
+<img src="images/fireflyjar.jpg" width="200" alt="Completed firefly jar">{: .img-left}
+
 There are a number of projects out there on the web to make a
 simulated firefly jar with LEDs and a microcontroller.  The first one I was aware of was
 in <a href="http://www.instructables.com/id/Jar-of-Fireflies/">this Instructable</a>, and that was the basis for my hardware. There is
@@ -12,8 +14,6 @@ also [this one](https://web.archive.org/web/20100127091819/https://xkyle.com/200
 make [synchronizing fireflies](http://tinkerlog.com/howto/synchronizing-firefly-how-to/).
 Since completing this project I've also
 seen <a href="http://fangletronics.blogspot.com/2010/02/jar-o-fireflies-mark-ii.html">yet another</a>.
-
-<img src="images/fireflyjar.jpg" width="200" alt="Completed firefly jar">
 
 I made the firefly jar as a Christmas present, and it worked well with
 the [provided code](http://www.instructables.com/id/Jar-of-Fireflies/step16/Appendix-Source-Code/), but I wanted to make the fireflies look realistic, meaning
