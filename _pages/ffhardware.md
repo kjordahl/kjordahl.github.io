@@ -22,8 +22,7 @@ The prototype board can also be used as a <a
 href="http://www.evilmadscientist.com/article.php/avrtargetboards">target
 board</a> for programming ATtiny85 (and -45) chips for other purposes.
 You will need some type of programmer to transfer the program to the
-microcontroller; I used the <a
-href="http://www.ladyada.net/make/usbtinyisp/index.html">USBtinyISP</a>
+microcontroller; I used the [USBtinyISP](https://learn.adafruit.com/usbtinyisp)
 from <a href="http://www.adafruit.com/">Adafruit industries</a>.
 
 This was by far the smallest soldering work I have ever done.  The

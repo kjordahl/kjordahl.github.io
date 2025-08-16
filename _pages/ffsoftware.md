@@ -36,10 +36,10 @@ brightness with hardware-based <a href="http://en.wikipedia.org/wiki/Pulse-width
 included that can be used as building blocks for writing new behaviors
 for the firefly jar.  The programs are compiled in avr-gcc.  You will
 need some kind of programmer to install the firmware on the ATtiny;
-I use the <a href="http://www.ladyada.net/make/usbtinyisp/">USBtinyISP</a>.
+I use the [USBtinyISP](https://learn.adafruit.com/usbtinyisp).
 For more information on programming AVRs, try starting
 with <a href="http://www.ladyada.net/learn/avr/">this
-tutorial</a>.</p>
+tutorial</a>.
 
 Source code is available at <a href="http://github.com/kjordahl/Pyralis">github</a>.
 
