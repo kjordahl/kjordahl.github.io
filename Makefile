@@ -6,3 +6,6 @@ build: ## build static site for default URL (github)
 
 codeberg: ## build static site for codeberg pages
 	bundle exec jekyll build --config _config.yml,_config_codeberg.yml
+
+install:
+	bundle install
