@@ -47,7 +47,7 @@
         <li><a rel="me" href="{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
       {% endif %}
       {% if author.codeberg %}
-        <li><a href="https://codeberg.org/{{ author.codeberg }}"><i class="fas fa-fw fa-code-branch" aria-hidden="true"></i> Codeberg</a></li>
+        <li><a href="https://codeberg.org/{{ author.codeberg }}"><svg class="codeberg-icon"><use xlink:href="{{ '/assets/fonts/minima-social-icons.svg#codeberg' | relative_url }}"></use></svg> Codeberg</a></li>
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
